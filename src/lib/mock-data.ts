@@ -45,7 +45,7 @@ export const opportunities: Opportunity[] = [
   {
     id: "1",
     company: "АгроЗерноХолдинг",
-    industry: "Агропром"
+    industry: "Агропром",
     segment: "enterprise",
     product: "Платформа предиктивной аналитики",
     estimatedRevenue: 12500000,
